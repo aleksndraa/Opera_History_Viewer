@@ -1,0 +1,13 @@
+*.cbproj*
+*.dfm
+Win32/Debug
+*.ild
+*.ils
+*.ilc
+*.map
+*.ilf
+*.obj
+*.res
+*.pch
+*.tds
+__*
